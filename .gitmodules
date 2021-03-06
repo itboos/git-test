@@ -1,0 +1,6 @@
+[submodule "skill-and-share"]
+	path = skill-and-share
+	url = git@github.com:itboos/skill-and-share.git
+[submodule "itboos"]
+	path = itboos
+	url = git@github.com:itboos/itboos.git
