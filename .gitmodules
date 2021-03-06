@@ -4,3 +4,4 @@
 [submodule "itboos"]
 	path = itboos
 	url = git@github.com:itboos/itboos.git
+	branch = main
